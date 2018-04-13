@@ -1,0 +1,2489 @@
+
+Test Time: +4 GMT
+Sat Oct 31 15:41:15 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 41-100
+Search range: 41-66
+Search range: 48-66
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 4
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-939
+Search range: 1-209
+Search range: 1-143
+Search range: 1-129
+Search range: 1-122
+Search range: 1-87
+Search range: 1-50
+Search range: 1-46
+Search range: 1-33
+Search range: 1-4
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 11
+
+Case 3: 
+Number to search: 3965
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1251-2499
+Search range: 1876-2499
+Search range: 1876-2186
+Search range: 2032-2186
+Search range: 2110-2186
+Search range: 2110-2147
+Search range: 2110-2127
+Search range: 2110-2117
+Search range: 2114-2117
+Search range: 2116-2117
+Search range: 2117-2117
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4939
+Search range: 2052-4939
+Search range: 2052-2593
+Search range: 2052-2526
+Search range: 2052-2312
+Search range: 2052-2215
+Found
+Iterations to complete: 
+Using Binary Search Method: 13
+Using Random Cut Search Method: 7
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-968
+Search range: 1-510
+Search range: 194-510
+Search range: 194-484
+Search range: 194-462
+Search range: 223-462
+Search range: 223-335
+Search range: 223-267
+Search range: 223-260
+Search range: 226-260
+Search range: 229-260
+Search range: 229-257
+Search range: 229-251
+Search range: 229-246
+Search range: 234-246
+Search range: 240-246
+Search range: 243-246
+Search range: 243-243
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 19
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-9
+Search range: 1-8
+Search range: 1-6
+Search range: 1-5
+Search range: 1-1
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 6
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 441-500
+Search range: 468-500
+Search range: 469-500
+Search range: 493-500
+Search range: 493-499
+Search range: 496-499
+Search range: 498-499
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 9
+<FINAL TEST SCORES>
+Binary Search: 4
+Random Cut Search: 2
+Draws: 0
+
+Test Time: +4 GMT
+Sat Oct 31 15:42:09 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 18-100
+Search range: 48-100
+Search range: 48-60
+Search range: 48-50
+Search range: 48-49
+Search range: 49-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 7
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-116
+Search range: 1-100
+Search range: 1-75
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 4
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-116
+Search range: 1-100
+Search range: 1-75
+Search range: 3-75
+Search range: 3-67
+Search range: 3-18
+Search range: 3-11
+Search range: 3-9
+Search range: 3-8
+Search range: 3-6
+Search range: 6-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 12
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 148-999
+Search range: 148-615
+Search range: 148-506
+Search range: 199-506
+Search range: 199-268
+Search range: 216-268
+Search range: 216-243
+Search range: 222-243
+Search range: 226-243
+Search range: 237-243
+Search range: 241-243
+Search range: 243-243
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 13
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 2
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 118-500
+Search range: 259-500
+Search range: 353-500
+Search range: 440-500
+Search range: 444-500
+Search range: 474-500
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 7
+<FINAL TEST SCORES>
+Binary Search: 2
+Random Cut Search: 3
+Draws: 1
+
+Test Time: +4 GMT
+Sat Oct 31 15:42:19 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 1
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-148
+Search range: 1-116
+Search range: 1-41
+Search range: 1-40
+Search range: 1-4
+Search range: 2-4
+Search range: 2-3
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 8
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-148
+Search range: 1-116
+Search range: 1-41
+Search range: 1-40
+Search range: 6-40
+Search range: 6-11
+Search range: 6-7
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 8
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 180-999
+Search range: 180-435
+Search range: 180-324
+Search range: 180-245
+Search range: 231-245
+Search range: 233-245
+Search range: 239-245
+Search range: 240-245
+Search range: 240-244
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 10
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-8
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 2
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 150-500
+Search range: 316-500
+Search range: 441-500
+Search range: 458-500
+Search range: 495-500
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 6
+<FINAL TEST SCORES>
+Binary Search: 1
+Random Cut Search: 5
+Draws: 0
+
+Test Time: +4 GMT
+Sun Nov 01 09:48:31 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-97
+Search range: 1-85
+Search range: 1-76
+Search range: 4-76
+Search range: 34-76
+Search range: 45-76
+Search range: 45-74
+Search range: 45-71
+Search range: 45-67
+Search range: 45-64
+Search range: 45-54
+Search range: 45-52
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 13
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-597
+Search range: 1-25
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 3
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-3597
+Search range: 1-2413
+Search range: 1-912
+Search range: 1-230
+Search range: 1-38
+Search range: 1-15
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 7
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-610
+Search range: 1-583
+Search range: 1-572
+Search range: 76-572
+Search range: 139-572
+Search range: 169-572
+Search range: 169-418
+Search range: 197-418
+Search range: 203-418
+Search range: 203-259
+Search range: 219-259
+Search range: 219-246
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 13
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-7
+Search range: 1-5
+Search range: 1-1
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 4
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 99-500
+Search range: 101-500
+Search range: 253-500
+Search range: 436-500
+Search range: 475-500
+Search range: 477-500
+Search range: 492-500
+Search range: 493-500
+Search range: 493-499
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 11
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-7
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 2
+<FINAL TEST SCORES>
+Binary Search: 5
+Random Cut Search: 2
+Draws: 0
+
+Test Time: +4 GMT
+Sun Nov 01 09:49:09 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 23-100
+Search range: 32-100
+Search range: 32-59
+Search range: 33-59
+Search range: 33-56
+Search range: 33-55
+Search range: 33-53
+Search range: 40-53
+Search range: 45-53
+Search range: 47-53
+Search range: 47-49
+Search range: 48-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 13
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-721
+Search range: 1-332
+Search range: 1-90
+Search range: 1-78
+Search range: 1-24
+Search range: 1-23
+Search range: 1-21
+Search range: 1-6
+Search range: 2-6
+Search range: 2-2
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 11
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-3721
+Search range: 1-2752
+Search range: 1-1358
+Search range: 1-840
+Search range: 1-186
+Search range: 1-161
+Search range: 1-21
+Search range: 1-6
+Search range: 2-6
+Search range: 4-6
+Search range: 6-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 12
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-734
+Search range: 22-734
+Search range: 22-279
+Search range: 239-279
+Search range: 239-276
+Search range: 239-259
+Search range: 240-259
+Search range: 240-252
+Search range: 240-247
+Search range: 240-246
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 11
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-1
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 2
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 223-500
+Search range: 346-500
+Search range: 357-500
+Search range: 418-500
+Search range: 446-500
+Search range: 463-500
+Search range: 473-500
+Search range: 487-500
+Search range: 492-500
+Search range: 494-500
+Search range: 498-500
+Search range: 499-500
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 14
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 3-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 2
+<FINAL TEST SCORES>
+Binary Search: 6
+Random Cut Search: 1
+Draws: 0
+
+Test Time: +4 GMT
+Sun Nov 01 09:56:39 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-90
+Search range: 1-75
+Search range: 1-54
+Search range: 11-54
+Search range: 32-54
+Search range: 32-49
+Search range: 45-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 8
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-190
+Search range: 1-5
+Search range: 1-4
+Search range: 1-3
+Search range: 2-3
+Search range: 2-2
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 7
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-190
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 2
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 207-999
+Search range: 207-996
+Search range: 207-305
+Search range: 207-287
+Search range: 226-287
+Search range: 238-287
+Search range: 238-255
+Search range: 238-244
+Search range: 243-244
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 10
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 1
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 192-500
+Search range: 313-500
+Search range: 493-500
+Search range: 493-499
+Search range: 495-499
+Search range: 498-499
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 8
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 2-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 2
+<FINAL TEST SCORES>
+Binary Search: 3
+Random Cut Search: 3
+Draws: 1
+
+Test Time: +4 GMT
+Sun Nov 01 15:41:53 2015
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-97
+Search range: 18-97
+Search range: 30-97
+Search range: 43-97
+Search range: 43-75
+Search range: 43-67
+Search range: 43-65
+Search range: 43-62
+Search range: 48-62
+Search range: 48-50
+Search range: 49-50
+Search range: 49-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 13
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-297
+Search range: 1-69
+Search range: 1-31
+Search range: 1-23
+Search range: 1-15
+Search range: 1-4
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 7
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-2297
+Search range: 1-780
+Search range: 1-571
+Search range: 1-136
+Search range: 1-87
+Search range: 1-67
+Search range: 1-55
+Search range: 1-7
+Search range: 1-6
+Search range: 5-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 11
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-314
+Search range: 103-314
+Search range: 103-285
+Search range: 233-285
+Search range: 235-285
+Search range: 235-277
+Search range: 235-263
+Search range: 235-243
+Search range: 236-243
+Search range: 242-243
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 11
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-7
+Search range: 1-5
+Search range: 1-1
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 4
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 299-500
+Search range: 341-500
+Search range: 433-500
+Search range: 446-500
+Search range: 480-500
+Search range: 488-500
+Search range: 490-500
+Search range: 498-500
+Search range: 499-500
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 11
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 1
+<FINAL TEST SCORES>
+Binary Search: 4
+Random Cut Search: 1
+Draws: 2
+
+Test Time: +4 GMT
+Thu Mar 23 19:08:38 2017
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-64
+Search range: 22-64
+Search range: 49-64
+Search range: 49-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 5
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-364
+Search range: 1-144
+Search range: 1-41
+Search range: 1-5
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 5
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-364
+Search range: 1-144
+Search range: 1-41
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 4
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-374
+Search range: 64-374
+Search range: 64-243
+Search range: 190-243
+Search range: 208-243
+Search range: 228-243
+Search range: 241-243
+Search range: 242-243
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 9
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-4
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 2
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 366-500
+Search range: 483-500
+Search range: 489-500
+Search range: 495-500
+Search range: 495-499
+Search range: 498-499
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 8
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 1
+<FINAL TEST SCORES>
+Binary Search: 0
+Random Cut Search: 4
+Draws: 3
+
+Test Time: +4 GMT
+Wed Mar 07 22:23:23 2018
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-50
+Search range: 41-50
+Search range: 45-50
+Search range: 49-50
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 5
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-250
+Search range: 1-189
+Search range: 1-99
+Search range: 1-18
+Search range: 1-8
+Search range: 2-8
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 7
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4250
+Search range: 1-2939
+Search range: 1-1233
+Search range: 1-909
+Search range: 1-629
+Search range: 1-527
+Search range: 1-135
+Search range: 1-80
+Search range: 1-53
+Search range: 1-26
+Search range: 1-12
+Search range: 1-11
+Search range: 6-11
+Search range: 6-8
+Search range: 6-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 16
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-254
+Search range: 61-254
+Search range: 131-254
+Search range: 173-254
+Search range: 173-248
+Search range: 198-248
+Search range: 232-248
+Search range: 240-248
+Search range: 240-247
+Search range: 240-244
+Search range: 243-244
+Search range: 243-243
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 13
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 1
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 252-500
+Search range: 289-500
+Search range: 463-500
+Search range: 499-500
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 5
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 2-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 2
+<FINAL TEST SCORES>
+Binary Search: 3
+Random Cut Search: 4
+Draws: 0
+
+Test Time: +4 GMT
+Wed Mar 07 22:23:35 2018
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-89
+Search range: 28-89
+Search range: 28-50
+Search range: 46-50
+Search range: 49-50
+Search range: 49-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 7
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-289
+Search range: 1-134
+Search range: 1-101
+Search range: 1-53
+Search range: 1-48
+Search range: 1-25
+Search range: 1-13
+Search range: 1-3
+Search range: 2-3
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 10
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4289
+Search range: 1-653
+Search range: 1-58
+Search range: 1-33
+Search range: 1-18
+Search range: 1-7
+Search range: 6-7
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 8
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-293
+Search range: 125-293
+Search range: 193-293
+Search range: 193-245
+Search range: 242-245
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 6
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-9
+Search range: 1-3
+Search range: 1-2
+Search range: 1-1
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 5
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 291-500
+Search range: 340-500
+Search range: 499-500
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 5
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-9
+Search range: 5-9
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 3
+<FINAL TEST SCORES>
+Binary Search: 2
+Random Cut Search: 3
+Draws: 2
+
+Test Time: +4 GMT
+Wed Mar 07 22:24:15 2018
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 22-100
+Search range: 22-80
+Search range: 22-61
+Search range: 40-61
+Search range: 45-61
+Search range: 46-61
+Search range: 46-60
+Search range: 49-60
+Search range: 49-52
+Search range: 49-50
+Search range: 49-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 12
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-420
+Search range: 1-10
+Search range: 1-6
+Search range: 1-3
+Search range: 2-3
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 6
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4420
+Search range: 1-3950
+Search range: 1-816
+Search range: 1-489
+Search range: 1-267
+Search range: 1-40
+Search range: 1-39
+Search range: 1-14
+Search range: 1-12
+Search range: 1-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 11
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-424
+Search range: 188-424
+Search range: 188-292
+Search range: 188-274
+Search range: 216-274
+Search range: 216-259
+Search range: 216-246
+Search range: 225-246
+Search range: 240-246
+Search range: 241-246
+Search range: 241-245
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 12
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 1
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 422-500
+Search range: 482-500
+Search range: 495-500
+Search range: 499-500
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 5
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 2-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 2
+<FINAL TEST SCORES>
+Binary Search: 3
+Random Cut Search: 3
+Draws: 1
+
+Test Time: +4 GMT
+Wed Mar 07 22:24:32 2018
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 1-75
+Search range: 17-75
+Search range: 46-75
+Search range: 46-63
+Search range: 46-51
+Search range: 46-50
+Search range: 46-49
+Search range: 48-49
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 9
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-475
+Search range: 1-290
+Search range: 1-275
+Search range: 1-53
+Search range: 1-10
+Search range: 1-3
+Search range: 1-2
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 8
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4475
+Search range: 1-3215
+Search range: 1-2155
+Search range: 1-1328
+Search range: 1-374
+Search range: 1-131
+Search range: 1-72
+Search range: 1-69
+Search range: 1-68
+Search range: 1-40
+Search range: 1-36
+Search range: 4-36
+Search range: 4-22
+Search range: 4-8
+Search range: 4-6
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 16
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-479
+Search range: 192-479
+Search range: 192-324
+Search range: 195-324
+Search range: 220-324
+Search range: 220-302
+Search range: 220-243
+Search range: 242-243
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 9
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-5
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 2
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 477-500
+Search range: 499-500
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 4
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 1
+<FINAL TEST SCORES>
+Binary Search: 2
+Random Cut Search: 3
+Draws: 2
+
+Test Time: +4 GMT
+Wed Mar 07 22:24:44 2018
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 17-100
+Search range: 17-94
+Search range: 17-59
+Search range: 17-57
+Search range: 17-55
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 6
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-515
+Search range: 1-289
+Search range: 1-81
+Search range: 1-39
+Search range: 1-20
+Search range: 1-5
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 7
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4515
+Search range: 1-1044
+Search range: 1-175
+Search range: 1-100
+Search range: 1-37
+Search range: 2-37
+Search range: 2-25
+Search range: 2-15
+Search range: 2-7
+Search range: 3-7
+Search range: 5-7
+Search range: 6-7
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 13
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-519
+Search range: 215-519
+Search range: 215-248
+Search range: 215-245
+Search range: 230-245
+Search range: 240-245
+Search range: 241-245
+Search range: 242-245
+Search range: 243-245
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 10
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-5
+Search range: 1-4
+Search range: 1-3
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 4
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 17-500
+Search range: 412-500
+Search range: 444-500
+Search range: 469-500
+Search range: 491-500
+Search range: 497-500
+Search range: 498-500
+Search range: 498-499
+Search range: 499-499
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 10
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 1
+<FINAL TEST SCORES>
+Binary Search: 4
+Random Cut Search: 2
+Draws: 1
+
+Test Time: +4 GMT
+Wed Mar 07 22:24:47 2018
+
+Case 1: 
+Number to search: 49
+Sample Set Size: 100
+<Binary Search>
+Search range: 1-100
+Search range: 1-49
+Search range: 26-49
+Search range: 38-49
+Search range: 44-49
+Search range: 47-49
+Search range: 49-49
+Found
+<Random Cut Search>
+Search range: 1-100
+Search range: 26-100
+Search range: 26-51
+Search range: 43-51
+Found
+Iterations to complete: 
+Using Binary Search Method: 7
+Using Random Cut Search Method: 4
+
+Case 2: 
+Number to search: 25
+Sample Set Size: 1000
+<Binary Search>
+Search range: 1-1000
+Search range: 1-499
+Search range: 1-249
+Search range: 1-124
+Search range: 1-61
+Search range: 1-30
+Search range: 1-14
+Search range: 1-6
+Search range: 1-2
+Search range: 2-2
+Found
+<Random Cut Search>
+Search range: 1-1000
+Search range: 1-524
+Search range: 1-119
+Search range: 1-13
+Search range: 1-5
+Search range: 1-3
+Search range: 1-2
+Found
+Iterations to complete: 
+Using Binary Search Method: 10
+Using Random Cut Search Method: 7
+
+Case 3: 
+Number to search: 258
+Sample Set Size: 5000
+<Binary Search>
+Search range: 1-5000
+Search range: 1-2499
+Search range: 1-1249
+Search range: 1-624
+Search range: 1-311
+Search range: 1-155
+Search range: 1-77
+Search range: 1-38
+Search range: 1-18
+Search range: 1-8
+Search range: 5-8
+Found
+<Random Cut Search>
+Search range: 1-5000
+Search range: 1-4524
+Search range: 1-503
+Search range: 1-102
+Search range: 1-21
+Found
+Iterations to complete: 
+Using Binary Search Method: 11
+Using Random Cut Search Method: 5
+
+Case 4: 
+Number to search: 1341
+Sample Set Size: 999
+<Binary Search>
+Search range: 1-999
+Search range: 1-498
+Search range: 1-248
+Search range: 125-248
+Search range: 187-248
+Search range: 218-248
+Search range: 234-248
+Search range: 242-248
+Search range: 242-244
+Found
+<Random Cut Search>
+Search range: 1-999
+Search range: 1-528
+Search range: 49-528
+Search range: 49-432
+Search range: 49-387
+Search range: 235-387
+Search range: 235-257
+Found
+Iterations to complete: 
+Using Binary Search Method: 9
+Using Random Cut Search Method: 7
+
+Case 5: 
+Number to search: 905
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-1
+Found
+<Random Cut Search>
+Search range: 1-10
+Search range: 1-4
+Search range: 1-3
+Found
+Iterations to complete: 
+Using Binary Search Method: 3
+Using Random Cut Search Method: 3
+
+Case 6: 
+Number to search: 1199
+Sample Set Size: 500
+<Binary Search>
+Search range: 1-500
+Search range: 251-500
+Search range: 376-500
+Search range: 439-500
+Search range: 470-500
+Search range: 486-500
+Search range: 494-500
+Search range: 498-500
+Found
+<Random Cut Search>
+Search range: 1-500
+Search range: 26-500
+Search range: 78-500
+Search range: 271-500
+Search range: 421-500
+Search range: 475-500
+Search range: 489-500
+Search range: 491-500
+Found
+Iterations to complete: 
+Using Binary Search Method: 8
+Using Random Cut Search Method: 8
+
+Case 7: 
+Number to search: 25
+Sample Set Size: 10
+<Binary Search>
+Search range: 1-10
+Found
+<Random Cut Search>
+Search range: 1-10
+Found
+Iterations to complete: 
+Using Binary Search Method: 1
+Using Random Cut Search Method: 1
+<FINAL TEST SCORES>
+Binary Search: 0
+Random Cut Search: 4
+Draws: 3
